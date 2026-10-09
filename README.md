@@ -9,7 +9,7 @@ architecture to automate elective/specialisation allocation for a PGDM-style coh
 
 ## Problem
 
-A fictional institute (The MoonLight Institute of Management Science) manually
+A fictional institute ( Great Lakes Institute of Management Science) manually
 allocates 14 major-specific electives to ~350–400 students across 5 majors,
 with seat caps of 60–120 per elective. The manual, spreadsheet-based process
 is slow and lacks a transparent audit trail.
